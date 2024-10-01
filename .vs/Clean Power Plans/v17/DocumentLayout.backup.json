@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rob\\source\\repos\\Clean-Power-Plans-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB333097-56BE-4BAD-AECC-AD16321FC66D}|Clean Power Plans\\Clean Power Plans.vcxproj|C:\\Users\\Rob\\source\\repos\\Clean-Power-Plans-master\\Clean Power Plans\\Clean Power Plans.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB333097-56BE-4BAD-AECC-AD16321FC66D}|Clean Power Plans\\Clean Power Plans.vcxproj|solutionrelative:Clean Power Plans\\Clean Power Plans.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clean Power Plans.cpp",
+              "DocumentMoniker": "C:\\Users\\Rob\\source\\repos\\Clean-Power-Plans-master\\Clean Power Plans\\Clean Power Plans.cpp",
+              "RelativeDocumentMoniker": "Clean Power Plans\\Clean Power Plans.cpp",
+              "ToolTip": "C:\\Users\\Rob\\source\\repos\\Clean-Power-Plans-master\\Clean Power Plans\\Clean Power Plans.cpp",
+              "RelativeToolTip": "Clean Power Plans\\Clean Power Plans.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T15:31:23.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
